@@ -1,0 +1,21 @@
+<JSC005_Furutaka_Ring_Mk1.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Furutaka/JSC005_Furutaka_1926/ring/JSC005_Furutaka_Ring_Mk1_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Furutaka/JSC005_Furutaka_1926/ring/JSC005_Furutaka_Ring_Mk1_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Furutaka/JSC005_Furutaka_1926/ring/JSC005_Furutaka_Ring_Mk1_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Furutaka/JSC005_Furutaka_1926/ring/JSC005_Furutaka_Ring_Mk1_a.dds	</Texture>
+	</property>
+	<property>	emissivePower
+		<Float>	10.000000	</Float>
+	</property>
+</JSC005_Furutaka_Ring_Mk1.mfm>
+
